@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Boys Will be Bugs_data" version="1.3.0" audacityversion="2.3.3" sel0="0.2670294785" sel1="0.2670294785" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="seconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Boys Will Be Bugs by Cavetown (Official Audio) _ Animal Kingdom-uREGk0fT0GQ" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fe88.au" len="255879" min="-0.68122" max="0.674011" rms="0.185577"/>
+				</waveblock>
+				<waveblock start="255879">
+					<simpleblockfile filename="eff1fad0.au" len="262144" min="-0.730271" max="0.729444" rms="0.202059"/>
+				</waveblock>
+				<waveblock start="518023">
+					<simpleblockfile filename="eff1ff8b.au" len="262144" min="-0.70409" max="0.782582" rms="0.206957"/>
+				</waveblock>
+				<waveblock start="780167">
+					<simpleblockfile filename="eff1f51e.au" len="262144" min="-0.755561" max="0.757334" rms="0.199067"/>
+				</waveblock>
+				<waveblock start="1042311">
+					<simpleblockfile filename="eff1f2f5.au" len="262144" min="-0.663727" max="0.72479" rms="0.173195"/>
+				</waveblock>
+				<waveblock start="1304455">
+					<simpleblockfile filename="eff1ffdb.au" len="135545" min="-0.602335" max="0.627517" rms="0.148624"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Boys Will Be Bugs by Cavetown (Official Audio) _ Animal Kingdom-uREGk0fT0GQ" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f171.au" len="255879" min="-0.653449" max="0.684413" rms="0.184314"/>
+				</waveblock>
+				<waveblock start="255879">
+					<simpleblockfile filename="eff1f59f.au" len="262144" min="-0.774667" max="0.833969" rms="0.201079"/>
+				</waveblock>
+				<waveblock start="518023">
+					<simpleblockfile filename="eff1f3bc.au" len="262144" min="-0.791591" max="0.715342" rms="0.204977"/>
+				</waveblock>
+				<waveblock start="780167">
+					<simpleblockfile filename="eff1f76b.au" len="262144" min="-0.726636" max="0.702232" rms="0.197035"/>
+				</waveblock>
+				<waveblock start="1042311">
+					<simpleblockfile filename="eff1fa61.au" len="262144" min="-0.619748" max="0.649393" rms="0.17026"/>
+				</waveblock>
+				<waveblock start="1304455">
+					<simpleblockfile filename="eff1f54b.au" len="135545" min="-0.565409" max="0.608227" rms="0.146287"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="0" height="73" minimized="0" numlabels="38">
+		<label t="0.7778684807" t1="1.3003174603" title=""/>
+		<label t="2.1362358277" t1="2.5541950113" title=""/>
+		<label t="2.7980045351" t1="3.1114739229" title=""/>
+		<label t="3.4713832200" t1="4.0054421769" title=""/>
+		<label t="4.8413605442" t1="5.2709297052" title=""/>
+		<label t="5.5031292517" t1="5.6656689342" title=""/>
+		<label t="6.0487981859" t1="6.7337868481" title=""/>
+		<label t="8.1734240363" t1="8.8351927438" title=""/>
+		<label t="9.0441723356" t1="9.4273015873" title=""/>
+		<label t="9.8568707483" t1="10.0774603175" title=""/>
+		<label t="10.2748299320" t1="10.6463492063" title=""/>
+		<label t="10.9598185941" t1="11.2384580499" title=""/>
+		<label t="11.4009977324" t1="11.6796371882" title=""/>
+		<label t="11.7841269841" t1="12.1904761905" title=""/>
+		<label t="12.4807256236" t1="13.5140136054" title=""/>
+		<label t="14.2222222222" t1="14.5356916100" title=""/>
+		<label t="14.7562811791" t1="15.1161904762" title=""/>
+		<label t="15.3832199546" t1="15.6734693878" title=""/>
+		<label t="15.8940589569" t1="16.5674376417" title=""/>
+		<label t="16.7183673469" t1="16.9621768707" title=""/>
+		<label t="17.2756462585" t1="17.5658956916" title=""/>
+		<label t="17.9025850340" t1="18.9126530612" title=""/>
+		<label t="19.3422222222" t1="19.7369614512" title=""/>
+		<label t="20.0736507937" t1="20.6077097506" title=""/>
+		<label t="20.8050793651" t1="21.0372789116" title=""/>
+		<label t="21.2230385488" t1="21.6990476190" title=""/>
+		<label t="21.8848072562" t1="22.1518367347" title=""/>
+		<label t="22.3375963719" t1="22.5697959184" title=""/>
+		<label t="22.7903854875" t1="23.0806349206" title=""/>
+		<label t="23.3128344671" t1="23.9629931973" title=""/>
+		<label t="24.1951927438" t1="24.4390022676" title=""/>
+		<label t="24.6363718821" t1="24.9266213152" title=""/>
+		<label t="25.2168707483" t1="25.4955102041" title=""/>
+		<label t="25.7625396825" t1="26.1224489796" title=""/>
+		<label t="26.3546485261" t1="26.6681179138" title=""/>
+		<label t="26.9467573696" t1="27.4343764172" title=""/>
+		<label t="27.6781859410" t1="27.8871655329" title=""/>
+		<label t="28.0961451247" t1="28.6882539683" title=""/>
+	</labeltrack>
+</project>
